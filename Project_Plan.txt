@@ -1,4 +1,4 @@
 resources list
 Monsur
-stephan
 Surya
+Hari
